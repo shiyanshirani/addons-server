@@ -4,7 +4,7 @@
 
 # Addons-Server
 
-Welcome to the Addons Server repository!  Please feel free to visit the web page of the current project hosted on [addons.mozilla.org]. If you want to develop or run the applciation locally, please follow the [setup and configuration][setup_link] docs.  We'd love your help!  You can come talk to us on [Matrix #amo:mozilla.org] if you have any questions.
+Welcome to the Addons Server repository!  Please feel free to visit the web page of the current project hosted on [addons.mozilla.org]. If you want to develop or run the application locally, please follow the [setup and configuration][setup_link] docs.  We'd love your help!  You can come talk to us on [Matrix #amo:mozilla.org] if you have any questions.
 
 Please report bugs here: <https://github.com/mozilla/addons/issues>
 
